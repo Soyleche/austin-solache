@@ -12,7 +12,7 @@ HTML/CSS
 MySql
 Python
 
-Projects
+Projects:
 <!DOCTYPE html>
 <html>
     <head>
